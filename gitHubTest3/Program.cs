@@ -10,7 +10,7 @@ namespace gitHubTest3
             Console.WriteLine("Hello World2!");
             Console.WriteLine("Hello World3!");
             Console.WriteLine("Hello World5!");
-
+            counter
         }
     }
 }
